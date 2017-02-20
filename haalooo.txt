@@ -1,0 +1,7 @@
+class haalooo
+{
+ public void getdata()
+{
+System.out.println(" Hello World ");
+}
+}
